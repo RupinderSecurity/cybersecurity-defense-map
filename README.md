@@ -5,7 +5,7 @@ An interactive, technical visualization of modern cybersecurity architecture, de
 
 This project was developed for **BSides San Diego 2026** and **BSides SLC**.
 
-**🌐 [View the Live Interactive Map]([https://rupindersecurity.github.io/cybersecurity-defense-map/](https://rupindersecurity.github.io/cybersecurity-defense-map/))**
+**🌐 [View the Live Interactive Map](https://RupinderSecurity.github.io/cybersecurity-defense-map)**
 
 ---
 
