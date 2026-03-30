@@ -2,6 +2,7 @@
   "name": "cybersecurity-defense-map",
   "version": "1.0.0",
   "scripts": {
+    "type": "module",
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
