@@ -31,7 +31,7 @@ jobs:
           node-version: 24
           
       - name: Install Dependencies
-        run: npm install
+        run: npm install && npm install @tailwindcss/vite
 
       - name: Build Project
         run: npm run build
