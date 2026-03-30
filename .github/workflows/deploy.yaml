@@ -31,7 +31,7 @@ jobs:
           node-version: 24
           
       - name: Install Dependencies
-        run: npm install && npm install @tailwindcss/vite @vitejs/plugin-react
+        run: npm install && npm install @tailwindcss/vite @vitejs/plugin-react@4
 
       - name: Build Project
         run: npm run build
