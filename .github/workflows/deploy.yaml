@@ -31,7 +31,7 @@ jobs:
           node-version: 24
           
       - name: Install Dependencies
-        run: npm install && npm install react react-dom @tailwindcss/vite @vitejs/plugin-react@4 tw-animate-css
+        run: npm install && npm install react react-dom @tailwindcss/vite @vitejs/plugin-react@4 tw-animate-css wouter
 
       - name: Build Project
         run: npm run build
